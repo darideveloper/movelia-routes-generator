@@ -1,0 +1,1064 @@
+{
+    "Barcelona": [
+        "Madrid",
+        "Valencia",
+        "Salou",
+        "Pamplona",
+        "Zaragoza",
+        "Benidorm",
+        "Alicante",
+        "Cadaqu\u00e9s",
+        "Lloret de Mar",
+        "Tossa de Mar",
+        "Playa de Aro / Platja d'Aro",
+        "Empuriabrava / Ampuriabrava",
+        "Palam\u00f3s",
+        "Logro\u00f1o",
+        "Huesca",
+        "Granada",
+        "Bilbao",
+        "San Sebasti\u00e1n",
+        "Almer\u00eda",
+        "Tarragona",
+        "Castell\u00f3n de la Plana",
+        "Vitoria",
+        "Burgos",
+        "Aranda de Duero",
+        "Benicarl\u00f3",
+        "Par\u00eds",
+        "Andorra",
+        "Lisboa",
+        "Aeropuerto de Barcelona",
+        "C\u00e1diz",
+        "Salamanca",
+        "Ciudad Real",
+        "Cartagena",
+        "Haro",
+        "Jerez de la Frontera",
+        "Tafalla",
+        "Villena"
+    ],
+    "Sevilla": [
+        "Huelva",
+        "Madrid",
+        "M\u00e1laga",
+        "C\u00e1diz",
+        "Granada",
+        "C\u00f3rdoba",
+        "Almer\u00eda",
+        "Faro",
+        "Aeropuerto de Faro",
+        "Salamanca",
+        "Bilbao",
+        "Ronda",
+        "Albacete",
+        "Algeciras",
+        "Aranda de Duero",
+        "Bail\u00e9n",
+        "C\u00e1ceres",
+        "Lisboa",
+        "Aeropuerto de Sevilla",
+        "Cuenca",
+        "Zaragoza"
+    ],
+    "Madrid": [
+        "Almer\u00eda",
+        "Toledo",
+        "C\u00f3rdoba",
+        "M\u00e1laga",
+        "Bilbao",
+        "Pamplona",
+        "Logro\u00f1o",
+        "Burgos",
+        "Granada",
+        "Marbella",
+        "Benidorm",
+        "Ciudad Rodrigo",
+        "Alicante",
+        "Barcelona",
+        "Sevilla",
+        "C\u00e1diz",
+        "Zaragoza",
+        "Salamanca",
+        "Cuenca",
+        "Valencia",
+        "Segovia",
+        "Badajoz",
+        "C\u00e1ceres",
+        "M\u00e9rida",
+        "Valladolid",
+        "Murcia",
+        "Sierra Nevada",
+        "Huelva",
+        "Le\u00f3n",
+        "Oviedo",
+        "Zamora",
+        "Albacete",
+        "\u00c1vila",
+        "Algeciras",
+        "Soria",
+        "Vigo",
+        "Pontevedra",
+        "San Sebasti\u00e1n",
+        "Santander",
+        "Castell\u00f3n de la Plana",
+        "Palencia",
+        "Vitoria",
+        "Ja\u00e9n",
+        "Teruel",
+        "Talavera de la Reina",
+        "Aranjuez",
+        "Baeza",
+        "Valdepe\u00f1as",
+        "\u00dabeda",
+        "Aranda de Duero",
+        "Don Benito",
+        "Molina de Arag\u00f3n",
+        "Villanueva de la Serena",
+        "Torrijos",
+        "La Carolina",
+        "Bail\u00e9n",
+        "Mota del Cuervo",
+        "Manzanares",
+        "Madridejos",
+        "Oca\u00f1a",
+        "Arenas de San Pedro",
+        "Calpe",
+        "Altea",
+        "Denia",
+        "Villajoyosa",
+        "J\u00e1vea",
+        "Ourense",
+        "Gij\u00f3n",
+        "Toro",
+        "Lugo",
+        "A Coru\u00f1a",
+        "Ar\u00e9valo",
+        "Almu\u00f1\u00e9car",
+        "Miranda de Ebro",
+        "Benavente",
+        "Benicarl\u00f3",
+        "Betanzos",
+        "Lisboa",
+        "Par\u00eds",
+        "Aveiro",
+        "Bayona",
+        "Aeropuerto de Madrid",
+        "Valencia",
+        "Huesca",
+        "Ronda",
+        "Ja\u00e9n",
+        "Valdepe\u00f1as"
+    ],
+    "San Sebasti\u00e1n": [
+        "Bilbao",
+        "Madrid",
+        "Alicante",
+        "Pamplona",
+        "Salou",
+        "Valencia",
+        "Benidorm",
+        "Santander",
+        "Vitoria",
+        "Oviedo",
+        "Burgos",
+        "Aranda de Duero",
+        "Par\u00eds",
+        "Bayona",
+        "Biarritz"
+    ],
+    "Almer\u00eda": [
+        "Madrid",
+        "M\u00e1laga",
+        "Sevilla",
+        "Granada",
+        "Barcelona",
+        "Murcia",
+        "Ja\u00e9n",
+        "Valencia",
+        "Alicante",
+        "Tarragona",
+        "Castell\u00f3n de la Plana"
+    ],
+    "Ir\u00fan": [
+        "Bilbao",
+        "Alicante",
+        "Valencia",
+        "Benidorm"
+    ],
+    "M\u00e1laga": [
+        "Madrid",
+        "Granada",
+        "Almer\u00eda",
+        "Marbella",
+        "Sevilla",
+        "C\u00f3rdoba",
+        "Murcia",
+        "Alicante",
+        "Ja\u00e9n",
+        "Almu\u00f1\u00e9car",
+        "Aranda de Duero",
+        "Baeza",
+        "C\u00e1ceres"
+    ],
+    "Bilbao": [
+        "Pamplona",
+        "Alicante",
+        "Benidorm",
+        "Valencia",
+        "Madrid",
+        "Sevilla",
+        "M\u00e1laga",
+        "San Sebasti\u00e1n",
+        "C\u00f3rdoba",
+        "Oviedo",
+        "Santander",
+        "Palencia",
+        "Vitoria",
+        "Burgos",
+        "C\u00e1ceres",
+        "Par\u00eds",
+        "Bayona",
+        "Logro\u00f1o",
+        "Segovia",
+        "Tudela"
+    ],
+    "Pamplona": [
+        "Madrid",
+        "Alicante",
+        "Salou",
+        "Valencia",
+        "Benidorm",
+        "Zaragoza",
+        "Bilbao",
+        "San Sebasti\u00e1n",
+        "Logro\u00f1o",
+        "Vitoria"
+    ],
+    "Burgos": [
+        "Madrid",
+        "Logro\u00f1o",
+        "C\u00f3rdoba",
+        "Soria",
+        "Vitoria",
+        "Santander",
+        "Aranda de Duero",
+        "Bilbao",
+        "Zaragoza",
+        "Le\u00f3n",
+        "Barcelona",
+        "San Sebasti\u00e1n",
+        "Zamora",
+        "Oviedo",
+        "Salamanca",
+        "M\u00e1laga",
+        "Valladolid",
+        "Gij\u00f3n",
+        "Ir\u00fan",
+        "C\u00f3rdoba",
+        "Salda\u00f1a",
+        "Sevilla",
+        "M\u00e9rida",
+        "A Coru\u00f1a",
+        "Granada",
+        "C\u00e1ceres",
+        "Oporto",
+        "Par\u00eds",
+        "Valencia",
+        "\u00c1vila",
+        "Palencia",
+        "Pamplona",
+        "Segovia",
+        "Tafalla",
+        "Tarragona"
+    ],
+    "Vitoria": [
+        "Madrid",
+        "Alicante",
+        "Benidorm",
+        "Valencia",
+        "Pamplona",
+        "San Sebasti\u00e1n",
+        "Santander",
+        "Burgos"
+    ],
+    "Marbella": [
+        "Madrid",
+        "M\u00e1laga",
+        "Granada"
+    ],
+    "Alicante": [
+        "Benidorm",
+        "Madrid",
+        "M\u00e1laga",
+        "Barcelona",
+        "Valencia",
+        "Sevilla",
+        "Granada",
+        "Murcia",
+        "Zaragoza",
+        "C\u00f3rdoba",
+        "Bilbao",
+        "Almer\u00eda",
+        "Pamplona",
+        "San Sebasti\u00e1n",
+        "Tarragona",
+        "Ciudad Real",
+        "Benicarl\u00f3",
+        "Benicassim",
+        "Ourense",
+        "Palencia",
+        "Vinaros",
+        "Zamora"
+    ],
+    "Benidorm": [
+        "Madrid",
+        "M\u00e1laga",
+        "Valencia",
+        "Vitoria",
+        "Pamplona",
+        "Zaragoza",
+        "Bilbao",
+        "San Sebasti\u00e1n",
+        "Logro\u00f1o",
+        "Tudela",
+        "Albacete",
+        "Tolosa",
+        "Barcelona",
+        "Ir\u00fan",
+        "Calpe",
+        "Algeciras",
+        "Gand\u00eda",
+        "Alicante"
+    ],
+    "Ciudad Rodrigo": [
+        "Madrid",
+        "Salamanca"
+    ],
+    "Salamanca": [
+        "Ciudad Rodrigo",
+        "Madrid",
+        "Aeropuerto de Madrid",
+        "Valladolid",
+        "\u00c1vila",
+        "Palencia",
+        "Burgos",
+        "C\u00e1ceres",
+        "Aveiro",
+        "Barcelona"
+    ],
+    "Santander": [
+        "Alicante",
+        "Benidorm",
+        "Valencia",
+        "Bilbao",
+        "Oviedo",
+        "Palencia",
+        "Madrid",
+        "Vitoria",
+        "Burgos"
+    ],
+    "Tolosa": [
+        "Alicante",
+        "Valencia",
+        "Benidorm"
+    ],
+    "Tudela": [
+        "Alicante",
+        "Valencia",
+        "Benidorm",
+        "Pamplona"
+    ],
+    "Valencia": [
+        "Barcelona",
+        "Pamplona",
+        "Alicante",
+        "Benidorm",
+        "Zaragoza",
+        "Madrid",
+        "Bilbao",
+        "Granada",
+        "Murcia",
+        "Logro\u00f1o",
+        "Albacete",
+        "Ja\u00e9n",
+        "Tarragona",
+        "Castell\u00f3n de la Plana",
+        "Vitoria",
+        "Santander",
+        "Teruel",
+        "Benicarl\u00f3",
+        "Andorra",
+        "Madrid",
+        "Burgos"
+    ],
+    "Huelva": [
+        "Sevilla",
+        "Madrid"
+    ],
+    "C\u00f3rdoba": [
+        "Madrid",
+        "M\u00e1laga",
+        "Sevilla",
+        "Granada",
+        "Huelva",
+        "Ja\u00e9n",
+        "Alicante",
+        "Aranda de Duero",
+        "Baeza",
+        "Bail\u00e9n",
+        "Zaragoza"
+    ],
+    "C\u00e1diz": [
+        "Madrid",
+        "Sevilla",
+        "Algeciras",
+        "Albacete",
+        "Benicarl\u00f3",
+        "Castell\u00f3n de la Plana",
+        "Ciudad Real",
+        "Ja\u00e9n",
+        "Jerez de la Frontera",
+        "Valdepe\u00f1as",
+        "Tarragona"
+    ],
+    "Granada": [
+        "Madrid",
+        "M\u00e1laga",
+        "Sevilla",
+        "Almer\u00eda",
+        "C\u00f3rdoba",
+        "Murcia",
+        "Sierra Nevada",
+        "Algeciras",
+        "Ja\u00e9n",
+        "Alicante",
+        "Valencia",
+        "Almu\u00f1\u00e9car",
+        "Baeza"
+    ],
+    "Badajoz": [
+        "Sevilla",
+        "Madrid",
+        "C\u00e1ceres",
+        "Lisboa",
+        "Ciudad Real",
+        "Daimiel"
+    ],
+    "Zaragoza": [
+        "Salou",
+        "Pamplona",
+        "Barcelona",
+        "Madrid",
+        "Bilbao",
+        "Logro\u00f1o",
+        "Benidorm",
+        "Huesca",
+        "Valencia",
+        "Soria",
+        "Santander",
+        "Murcia",
+        "Tarragona",
+        "Castell\u00f3n de la Plana",
+        "Alicante",
+        "Vitoria",
+        "Burgos",
+        "Teruel",
+        "Aranda de Duero",
+        "Benicarl\u00f3",
+        "Andorra",
+        "Sevilla",
+        "M\u00e1laga",
+        "C\u00f3rdoba"
+    ],
+    "Soria": [
+        "Pamplona",
+        "Zaragoza",
+        "Valladolid",
+        "Madrid",
+        "Burgos",
+        "Logro\u00f1o",
+        "Aranda de Duero"
+    ],
+    "Salou": [
+        "Pamplona",
+        "Zaragoza"
+    ],
+    "Logro\u00f1o": [
+        "Pamplona",
+        "Valencia",
+        "Alicante",
+        "Benidorm",
+        "Soria",
+        "Santander",
+        "Burgos",
+        "Zaragoza",
+        "San Sebasti\u00e1n",
+        "Barcelona"
+    ],
+    "Lleida": [
+        "Salou",
+        "Madrid",
+        "Valencia",
+        "Huelva",
+        "Andorra",
+        "C\u00f3rdoba"
+    ],
+    "Baza": [
+        "Granada"
+    ],
+    "Aeropuerto de Barcelona": [
+        "Cadaqu\u00e9s",
+        "Lloret de Mar",
+        "Playa de Aro / Platja d'Aro",
+        "Empuriabrava / Ampuriabrava",
+        "Palam\u00f3s"
+    ],
+    "Bus Aeropuerto de Barcelona": [
+        "Tossa de Mar"
+    ],
+    "Ronda": [
+        "M\u00e1laga",
+        "Sevilla",
+        "Madrid",
+        "C\u00f3rdoba"
+    ],
+    "Nerja": [
+        "M\u00e1laga"
+    ],
+    "Ja\u00e9n": [
+        "Sevilla",
+        "Granada",
+        "C\u00f3rdoba",
+        "Almer\u00eda",
+        "Madrid",
+        "Baeza",
+        "Madrid"
+    ],
+    "Faro": [
+        "Sevilla"
+    ],
+    "Aeropuerto de Faro": [
+        "Sevilla"
+    ],
+    "Isla Cristina": [
+        "Sevilla"
+    ],
+    "Gerona/Girona": [
+        "Barcelona",
+        "Aeropuerto de Barcelona"
+    ],
+    "Chipiona": [
+        "Sevilla"
+    ],
+    "Jerez de la Frontera": [
+        "Sevilla",
+        "Madrid",
+        "C\u00e1ceres",
+        "Barcelona"
+    ],
+    "Aeropuerto de Ibiza": [
+        "Formentera"
+    ],
+    "Ciudad Real": [
+        "Madrid",
+        "Toledo",
+        "Granada",
+        "Barcelona",
+        "M\u00e1laga",
+        "C\u00f3rdoba",
+        "Zaragoza",
+        "Algeciras"
+    ],
+    "Guadix": [
+        "Granada",
+        "Madrid",
+        "Almer\u00eda",
+        "Ja\u00e9n"
+    ],
+    "Tarragona": [
+        "Barcelona",
+        "Aeropuerto de Barcelona",
+        "Valencia",
+        "Zaragoza",
+        "Tortosa",
+        "Pamplona",
+        "San Sebasti\u00e1n",
+        "Castell\u00f3n de la Plana",
+        "Alicante",
+        "Almer\u00eda",
+        "Benicarl\u00f3",
+        "Sevilla",
+        "Burgos"
+    ],
+    "Jaca": [
+        "Pamplona",
+        "Zaragoza",
+        "Huesca"
+    ],
+    "Algeciras": [
+        "C\u00e1diz",
+        "M\u00e1laga",
+        "Marbella",
+        "Madrid",
+        "Sevilla",
+        "Murcia",
+        "Granada",
+        "C\u00e1ceres",
+        "Ciudad Real"
+    ],
+    "Noja": [
+        "Bilbao"
+    ],
+    "Murcia": [
+        "Almer\u00eda",
+        "Alicante",
+        "Madrid",
+        "Granada",
+        "Valencia",
+        "Albacete",
+        "Zaragoza",
+        "Barcelona",
+        "Tarragona",
+        "Castell\u00f3n de la Plana",
+        "Cartagena",
+        "La Manga del Mar Menor",
+        "Torrevieja"
+    ],
+    "Cuenca": [
+        "Madrid",
+        "C\u00f3rdoba"
+    ],
+    "Segovia": [
+        "Madrid",
+        "\u00c1vila"
+    ],
+    "Huesca": [
+        "Barcelona",
+        "Zaragoza",
+        "Madrid"
+    ],
+    "C\u00e1ceres": [
+        "Madrid",
+        "Sevilla",
+        "M\u00e9rida",
+        "Plasencia",
+        "Salamanca",
+        "Burgos",
+        "Almendralejo",
+        "Le\u00f3n",
+        "Badajoz",
+        "Algeciras",
+        "C\u00e1diz",
+        "M\u00e1laga",
+        "Trujillo",
+        "Zamora",
+        "Ir\u00fan",
+        "Zafra",
+        "B\u00e9jar",
+        "Valladolid",
+        "Jerez de la Frontera",
+        "Bilbao",
+        "Oviedo",
+        "Ourense",
+        "Vigo",
+        "Barcelona",
+        "Aeropuerto de Madrid",
+        "A Coru\u00f1a",
+        "Pontevedra",
+        "Gij\u00f3n",
+        "Vitoria",
+        "Palencia",
+        "Lisboa"
+    ],
+    "Estepona": [
+        "M\u00e1laga",
+        "Madrid",
+        "Marbella"
+    ],
+    "Zamora": [
+        "Madrid",
+        "C\u00e1ceres",
+        "Albacete"
+    ],
+    "Valladolid": [
+        "Salamanca",
+        "Zamora",
+        "Madrid",
+        "Soria",
+        "Oviedo",
+        "Aranda de Duero",
+        "Astorga",
+        "Benavente",
+        "C\u00e1ceres"
+    ],
+    "M\u00e9rida": [
+        "Madrid",
+        "Burgos",
+        "C\u00e1ceres"
+    ],
+    "Toledo": [
+        "Madrid",
+        "Ciudad Real",
+        "Albacete"
+    ],
+    "Vigo": [
+        "Lugo",
+        "Zamora",
+        "Madrid",
+        "Oviedo",
+        "Astorga",
+        "C\u00e1ceres"
+    ],
+    "Lugo": [
+        "Vigo",
+        "Madrid"
+    ],
+    "Lloret de Mar": [
+        "Barcelona"
+    ],
+    "Cartagena": [
+        "Murcia",
+        "Albacete",
+        "Barcelona"
+    ],
+    "Roquetas de Mar": [
+        "Madrid"
+    ],
+    "Le\u00f3n": [
+        "Madrid",
+        "Oviedo",
+        "Ponferrada",
+        "Astorga",
+        "Burgos",
+        "Valladolid",
+        "Gij\u00f3n",
+        "C\u00e1ceres"
+    ],
+    "Oviedo": [
+        "Le\u00f3n",
+        "Santander",
+        "Madrid",
+        "Astorga",
+        "Benavente",
+        "C\u00e1ceres",
+        "Cuenca",
+        "Valencia",
+        "Castell\u00f3n de la Plana",
+        "Palencia"
+    ],
+    "Albacete": [
+        "Valencia",
+        "Zamora",
+        "Benicarl\u00f3",
+        "C\u00e1diz",
+        "Ciudad Real",
+        "Palencia",
+        "Jerez de la Frontera",
+        "Puerto de Santa Mar\u00eda",
+        "Daimiel",
+        "Santander",
+        "Segovia",
+        "Valdepe\u00f1as"
+    ],
+    "\u00c1vila": [
+        "Madrid",
+        "Salamanca",
+        "Aveiro",
+        "Oporto",
+        "Burgos",
+        "Le\u00f3n",
+        "Palencia",
+        "Valladolid",
+        "Vitoria",
+        "San Sebasti\u00e1n",
+        "Miranda de Ebro"
+    ],
+    "Palencia": [
+        "Zamora",
+        "Burgos"
+    ],
+    "Almu\u00f1\u00e9car": [
+        "Granada"
+    ],
+    "Pontevedra": [
+        "Madrid",
+        "C\u00e1ceres",
+        "Vigo"
+    ],
+    "\u00dabeda": [
+        "Ja\u00e9n",
+        "Madrid",
+        "Baeza",
+        "Madrid"
+    ],
+    "Gij\u00f3n": [
+        "Santander",
+        "Madrid",
+        "Oviedo",
+        "Astorga"
+    ],
+    "Santiago de Compostela": [
+        "Oviedo",
+        "Astorga",
+        "Aveiro"
+    ],
+    "A Coru\u00f1a": [
+        "Oviedo",
+        "Madrid",
+        "Astorga",
+        "C\u00e1ceres",
+        "Ferrol",
+        "Lleida",
+        "Lugo",
+        "Miranda de Ebro",
+        "Palencia",
+        "Pontevedra",
+        "Ourense",
+        "Segovia",
+        "Santiago de Compostela",
+        "Tarragona",
+        "Tafalla",
+        "Vigo",
+        "Tudela",
+        "Vitoria"
+    ],
+    "Teruel": [
+        "Madrid",
+        "Valencia"
+    ],
+    "Talavera de la Reina": [
+        "Madrid",
+        "Madrid"
+    ],
+    "Baeza": [
+        "Madrid",
+        "Ja\u00e9n",
+        "Granada",
+        "C\u00f3rdoba",
+        "M\u00e1laga",
+        "\u00dabeda",
+        "Aeropuerto de M\u00e1laga"
+    ],
+    "Aranjuez": [
+        "Madrid"
+    ],
+    "Valdepe\u00f1as": [
+        "Madrid",
+        "Madrid"
+    ],
+    "Autobuses Oviedo": [
+        "Burgos"
+    ],
+    "Aranda de Duero": [
+        "Burgos",
+        "Madrid",
+        "Zaragoza",
+        "Valladolid",
+        "Soria",
+        "Barcelona",
+        "M\u00e1laga",
+        "San Sebasti\u00e1n",
+        "C\u00f3rdoba",
+        "Miranda de Ebro"
+    ],
+    "Don Benito": [
+        "Madrid"
+    ],
+    "Molina de Arag\u00f3n": [
+        "Madrid"
+    ],
+    "Villanueva de la Serena": [
+        "Madrid"
+    ],
+    "Torrijos": [
+        "Madrid"
+    ],
+    "La Carolina": [
+        "Madrid"
+    ],
+    "Bail\u00e9n": [
+        "Madrid",
+        "Sevilla",
+        "C\u00f3rdoba"
+    ],
+    "Mota del Cuervo": [
+        "Madrid"
+    ],
+    "Manzanares": [
+        "Madrid"
+    ],
+    "Madridejos": [
+        "Madrid"
+    ],
+    "Oca\u00f1a": [
+        "Madrid"
+    ],
+    "Arenas de San Pedro": [
+        "Madrid"
+    ],
+    "Ourense": [
+        "Madrid"
+    ],
+    "Toro": [
+        "Madrid"
+    ],
+    "Ar\u00e9valo": [
+        "Madrid"
+    ],
+    "Miranda de Ebro": [
+        "Madrid",
+        "Aranda de Duero"
+    ],
+    "And\u00fajar": [
+        "Aranda de Duero",
+        "C\u00f3rdoba",
+        "Benicarl\u00f3",
+        "Castell\u00f3n de la Plana",
+        "Ja\u00e9n",
+        "Valdepe\u00f1as",
+        "Valencia",
+        "Tarragona"
+    ],
+    "Astorga": [
+        "A Coru\u00f1a",
+        "Le\u00f3n",
+        "Gij\u00f3n",
+        "Vigo",
+        "Valladolid",
+        "Santiago de Compostela",
+        "Oviedo",
+        "Vitoria",
+        "Lleida",
+        "Miranda de Ebro",
+        "Pamplona",
+        "Tafalla",
+        "Tudela",
+        "Segovia",
+        "Tarragona"
+    ],
+    "Ponferrada": [
+        "Astorga"
+    ],
+    "Aeropuerto de M\u00e1laga": [
+        "Baeza"
+    ],
+    "Benavente": [
+        "Madrid",
+        "Valladolid",
+        "Oviedo"
+    ],
+    "Benicarl\u00f3": [
+        "Barcelona",
+        "Zaragoza",
+        "Valencia",
+        "Tarragona",
+        "Madrid",
+        "And\u00fajar",
+        "Benicassim",
+        "C\u00e1diz",
+        "Cartagena",
+        "C\u00f3rdoba",
+        "Elche",
+        "Murcia",
+        "Sevilla",
+        "Valdepe\u00f1as"
+    ],
+    "Betanzos": [
+        "Madrid"
+    ],
+    "Zafra": [
+        "C\u00e1ceres",
+        "Sevilla"
+    ],
+    "Aeropuerto de Madrid": [
+        "C\u00e1ceres"
+    ],
+    "Plasencia": [
+        "C\u00e1ceres"
+    ],
+    "Trujillo": [
+        "C\u00e1ceres"
+    ],
+    "Almendralejo": [
+        "C\u00e1ceres"
+    ],
+    "Lisboa": [
+        "Madrid",
+        "Par\u00eds",
+        "Sevilla",
+        "Barcelona",
+        "Aveiro",
+        "Oporto"
+    ],
+    "Oporto": [
+        "Lisboa",
+        "Par\u00eds",
+        "Aveiro",
+        "\u00c1vila"
+    ],
+    "Par\u00eds": [
+        "Barcelona",
+        "Bayona"
+    ],
+    "Burdeos": [
+        "Par\u00eds"
+    ],
+    "Andorra": [
+        "Barcelona",
+        "Valencia"
+    ],
+    "Aveiro": [
+        "Lisboa",
+        "Madrid",
+        "Salamanca",
+        "Oporto",
+        "\u00c1vila",
+        "Santiago de Compostela"
+    ],
+    "Bayona": [
+        "Madrid",
+        "San Sebasti\u00e1n",
+        "Par\u00eds",
+        "Bilbao"
+    ],
+    "Biarritz": [
+        "San Sebasti\u00e1n"
+    ],
+    "Elda": [
+        "Barcelona"
+    ],
+    "Castell\u00f3n de la Plana": [
+        "C\u00f3rdoba",
+        "Albacete",
+        "And\u00fajar"
+    ],
+    "Tafalla": [
+        "Burgos"
+    ],
+    "Almuradiel": [
+        "Madrid",
+        "Valdepe\u00f1as"
+    ],
+    "Badalona": [
+        "Gerona/Girona",
+        "Figueres"
+    ],
+    "Benicassim": [
+        "Alicante",
+        "Benicarl\u00f3",
+        "Castell\u00f3n de la Plana",
+        "Elche",
+        "Murcia",
+        "Valencia",
+        "Vinaros"
+    ],
+    "Cambrils": [
+        "C\u00e1diz",
+        "Albacete",
+        "And\u00fajar",
+        "C\u00f3rdoba",
+        "Tarragona",
+        "Valdepe\u00f1as"
+    ]
+}

@@ -1,0 +1,1627 @@
+Autobús Barcelona - Madrid
+
+Autobús Sevilla - Huelva
+
+Autobús Sevilla - Madrid
+
+Autobús Barcelona - Valencia
+
+Autobús Madrid - Almería
+
+Autobús Madrid - Toledo
+
+Autobús San Sebastián - Bilbao
+
+Autobús Madrid - Córdoba
+
+Autobús Almería - Madrid
+
+Autobús Madrid - Málaga
+
+Autobús Sevilla - Málaga
+
+Autobús Irún - Bilbao
+
+Autobús Málaga - Madrid
+
+Autobús Madrid - Bilbao
+
+Autobús Málaga - Granada
+
+Autobús Bilbao - Pamplona
+
+Autobús Madrid - Pamplona
+
+Autobús Madrid - Logroño
+
+Autobús Pamplona - Madrid
+
+Autobús Burgos - Madrid
+
+Autobús Madrid - Burgos
+
+Autobús San Sebastián - Madrid
+
+Autobús Vitoria - Madrid
+
+Autobús Madrid - Granada
+
+Autobús Madrid - Marbella
+
+Autobús Marbella - Madrid
+
+Autobús Madrid - Benidorm
+
+Autobús Alicante - Benidorm
+
+Autobús Benidorm - Madrid
+
+Autobús Alicante - Madrid
+
+Autobús Ciudad Rodrigo - Madrid
+
+Autobús Madrid - Ciudad Rodrigo
+
+Autobús Salamanca - Ciudad Rodrigo
+
+Autobús Ciudad Rodrigo - Salamanca
+
+Autobús Bilbao - Alicante
+
+Autobús San Sebastián - Alicante
+
+Autobús Santander - Alicante
+
+Autobús Vitoria - Alicante
+
+Autobús Irún - Alicante
+
+Autobús Madrid - Alicante
+
+Autobús Tolosa - Alicante
+
+Autobús Tudela - Alicante
+
+Autobús Bilbao - Benidorm
+
+Autobús Valencia - Barcelona
+
+Autobús Huelva - Sevilla
+
+Autobús Madrid - Barcelona
+
+Autobús Córdoba - Madrid
+
+Autobús Madrid - Sevilla
+
+Autobús Cádiz - Madrid
+
+Autobús Madrid - Cádiz
+
+Autobús Sevilla - Cádiz
+
+Autobús Huelva - Madrid
+
+Autobús Granada - Madrid
+
+Autobús San Sebastián - Pamplona
+
+Autobús Pamplona - Alicante
+
+Autobús Vitoria - Benidorm
+
+Autobús Santander - Benidorm
+
+Autobús Granada - Málaga
+
+Autobús Badajoz - Sevilla
+
+Autobús Zaragoza - Salou
+
+Autobús Barcelona - Salou
+
+Autobús Pamplona - Salou
+
+Autobús San Sebastián - Salou
+
+Autobús Bilbao - Valencia
+
+Autobús Vitoria - Valencia
+
+Autobús Santander - Valencia
+
+Autobús Irún - Valencia
+
+Autobús San Sebastián - Valencia
+
+Autobús Tolosa - Valencia
+
+Autobús Tudela - Valencia
+
+Autobús Pamplona - Valencia
+
+Autobús San Sebastián - Benidorm
+
+Autobús Irún - Benidorm
+
+Autobús Tolosa - Benidorm
+
+Autobús Tudela - Benidorm
+
+Autobús Pamplona - Benidorm
+
+Autobús Soria - Pamplona
+
+Autobús Barcelona - Pamplona
+
+Autobús Zaragoza - Pamplona
+
+Autobús Tudela - Pamplona
+
+Autobús Valencia - Pamplona
+
+Autobús Salou - Pamplona
+
+Autobús Vitoria - Pamplona
+
+Autobús Logroño - Pamplona
+
+Autobús Lleida - Salou
+
+Autobús Lleida - Madrid
+
+Autobús Valencia - Alicante
+
+Autobús Valencia - Benidorm
+
+Autobús Madrid - Zaragoza
+
+Autobús Barcelona - Zaragoza
+
+Autobús Salou - Zaragoza
+
+Autobús Baza - Granada
+
+Autobús Pamplona - Zaragoza
+
+Autobús Barcelona - Benidorm
+
+Autobús Barcelona - Alicante
+
+Autobús Barcelona - Cadaqués
+
+Autobús Aeropuerto de Barcelona - Cadaqués
+
+Autobús Barcelona - Lloret de Mar
+
+Autobús Aeropuerto de Barcelona - Lloret de Mar
+
+Autobús Barcelona - Tossa de Mar
+
+Bus Aeropuerto de Barcelona - Tossa de Mar
+
+Autobús Barcelona - Playa de Aro / Platja d'Aro
+
+Autobús Aeropuerto de Barcelona - Playa de Aro / Platja d'Aro
+
+Autobús Barcelona - Empuriabrava / Ampuriabrava
+
+Autobús Aeropuerto de Barcelona - Empuriabrava / Ampuriabrava
+
+Autobús Sevilla - Granada
+
+Autobús Sevilla - Córdoba
+
+Autobús Sevilla - Almería
+
+Autobús Barcelona - Palamós
+
+Autobús Aeropuerto de Barcelona - Palamós
+
+Autobús Almería - Málaga
+
+Autobús Benidorm - Málaga
+
+Autobús Alicante - Málaga
+
+Autobús Ronda - Málaga
+
+Autobús Nerja - Málaga
+
+Autobús Córdoba - Málaga
+
+Autobús Córdoba - Sevilla
+
+Autobús Cádiz - Sevilla
+
+Autobús Granada - Sevilla
+
+Autobús Almería - Sevilla
+
+Autobús Jaén - Sevilla
+
+Autobús Jaén - Granada
+
+Autobús Jaén - Córdoba
+
+Autobús Jaén - Almería
+
+Autobús Córdoba - Granada
+
+Autobús Almería - Granada
+
+Autobús Faro - Sevilla
+
+Autobús Aeropuerto de Faro - Sevilla
+
+Autobús Sevilla - Faro
+
+Autobús Sevilla - Aeropuerto de Faro
+
+Autobús Logroño - Valencia
+
+Autobús Logroño - Alicante
+
+Autobús Logroño - Benidorm
+
+Autobús Isla Cristina - Sevilla
+
+Autobús Gerona/Girona - Barcelona
+
+Autobús Chipiona - Sevilla
+
+Autobús Gerona/Girona - Aeropuerto de Barcelona
+
+Autobús Jerez de la Frontera - Sevilla
+
+Autobús Jerez de la Frontera - Madrid
+
+Bus + Ferry Aeropuerto de Ibiza - Formentera
+
+Autobús Bilbao - Madrid
+
+Autobús Ciudad Real - Madrid
+
+Autobús Ciudad Real - Toledo
+
+Autobús Ciudad Real - Granada
+
+Autobús Guadix - Granada
+
+Autobús Guadix - Madrid
+
+Autobús Guadix - Almería
+
+Autobús Tarragona - Barcelona
+
+Autobús Tarragona - Aeropuerto de Barcelona
+
+Autobús Bilbao - Sevilla
+
+Autobús Bilbao - Málaga
+
+Autobús Jaca - Pamplona
+
+Autobús Zaragoza - Barcelona
+
+Autobús Valencia - Zaragoza
+
+Autobús Algeciras - Cádiz
+
+Autobús Pamplona - Bilbao
+
+Autobús Noja - Bilbao
+
+Autobús Málaga - Almería
+
+Autobús Granada - Almería
+
+Autobús Murcia - Almería
+
+Autobús Madrid - Salamanca
+
+Autobús Salamanca - Madrid
+
+Autobús Cuenca - Madrid
+
+Autobús Madrid - Cuenca
+
+Autobús Madrid - Valencia
+
+Autobús Valencia - Madrid
+
+Autobús Segovia - Madrid
+
+Autobús Madrid - Segovia
+
+Autobús Huesca - Barcelona
+
+Autobús Huesca - Zaragoza
+
+Autobús Badajoz - Madrid
+
+Autobús Cáceres - Madrid
+
+Autobús Marbella - Málaga
+
+Autobús Málaga - Marbella
+
+Autobús Algeciras - Málaga
+
+Autobús Estepona - Málaga
+
+Autobús Estepona - Madrid
+
+Autobús Estepona - Marbella
+
+Autobús Jaca - Zaragoza
+
+Autobús Salamanca - Aeropuerto de Madrid
+
+Autobús Zamora - Madrid
+
+Autobús Valladolid - Salamanca
+
+Autobús Zaragoza - Madrid
+
+Autobús Málaga - Sevilla
+
+Autobús Bilbao - San Sebastián
+
+Autobús Pamplona - San Sebastián
+
+Autobús Vitoria - San Sebastián
+
+Autobús Algeciras - Marbella
+
+Autobús Madrid - Badajoz
+
+Autobús Madrid - Cáceres
+
+Autobús Madrid - Mérida
+
+Autobús Mérida - Madrid
+
+Autobús Toledo - Madrid
+
+Autobús Granada - Córdoba
+
+Autobús Murcia - Alicante
+
+Autobús Benidorm - Valencia
+
+Autobús Murcia - Madrid
+
+Autobús Bilbao - Córdoba
+
+Autobús Lleida - Valencia
+
+Autobús Vigo - Lugo
+
+Autobús Lugo - Vigo
+
+Autobús Zaragoza - Bilbao
+
+Autobús Zaragoza - Logroño
+
+Autobús Zaragoza - Benidorm
+
+Autobús Madrid - Valladolid
+
+Autobús Salamanca - Valladolid
+
+Autobús Lloret de Mar - Barcelona
+
+Autobús Santander - Bilbao
+
+Autobús Valencia - Bilbao
+
+Autobús Valencia - Granada
+
+Autobús Murcia - Granada
+
+Autobús Alicante - Barcelona
+
+Autobús Alicante - Valencia
+
+Autobús Alicante - Sevilla
+
+Autobús Alicante - Granada
+
+Autobús Almería - Barcelona
+
+Autobús Almería - Murcia
+
+Autobús Madrid - Murcia
+
+Autobús Cartagena - Murcia
+
+Autobús Valencia - Murcia
+
+Autobús Granada - Murcia
+
+Autobús Granada - Sierra Nevada
+
+Autobús Madrid - Sierra Nevada
+
+Autobús Valencia - Logroño
+
+Autobús Barcelona - Logroño
+
+Autobús Pamplona - Logroño
+
+Autobús Burgos - Logroño
+
+Autobús Sevilla - Salamanca
+
+Autobús Sevilla - Bilbao
+
+Autobús Málaga - Córdoba
+
+Autobús Málaga - Murcia
+
+Autobús Málaga - Alicante
+
+Autobús Alicante - Murcia
+
+Autobús Alicante - Zaragoza
+
+Autobús Sevilla - Ronda
+
+Autobús Madrid - Huelva
+
+Autobús Córdoba - Huelva
+
+Autobús Lleida - Huelva
+
+Autobús Roquetas de Mar - Madrid
+
+Autobús Barcelona - Huesca
+
+Autobús Zaragoza - Huesca
+
+Autobús Jaca - Huesca
+
+Autobús Murcia - Valencia
+
+Autobús León - Madrid
+
+Autobús Madrid - León
+
+Autobús Oviedo - León
+
+Autobús Madrid - Oviedo
+
+Autobús León - Oviedo
+
+Autobús Madrid - Zamora
+
+Autobús Madrid - Albacete
+
+Autobús Albacete - Valencia
+
+Autobús Valencia - Albacete
+
+Autobús Valladolid - Zamora
+
+Autobús Valladolid - Madrid
+
+Autobús Cartagena - Albacete
+
+Autobús Sevilla - Albacete
+
+Autobús Murcia - Albacete
+
+Autobús Vigo - Zamora
+
+Autobús Ávila - Madrid
+
+Autobús Madrid - Ávila
+
+Autobús Salamanca - Ávila
+
+Autobús Palencia - Zamora
+
+Autobús Burgos - Córdoba
+
+Autobús Alicante - Córdoba
+
+Autobús Madrid - Algeciras
+
+Autobús Algeciras - Madrid
+
+Autobús Cádiz - Algeciras
+
+Autobús Granada - Algeciras
+
+Autobús Sevilla - Algeciras
+
+Autobús Algeciras - Sevilla
+
+Autobús Algeciras - Murcia
+
+Autobús Zaragoza - Valencia
+
+Autobús Zaragoza - Soria
+
+Autobús Soria - Zaragoza
+
+Autobús Madrid - Soria
+
+Autobús Valladolid - Soria
+
+Autobús Soria - Valladolid
+
+Autobús Soria - Madrid
+
+Autobús Soria - Burgos
+
+Autobús Burgos - Soria
+
+Autobús Logroño - Soria
+
+Autobús Soria - Logroño
+
+Autobús Algeciras - Granada
+
+Autobús Marbella - Granada
+
+Autobús Almuñécar - Granada
+
+Autobús Barcelona - Granada
+
+Autobús Madrid - Vigo
+
+Autobús Vigo - Madrid
+
+Autobús Pontevedra - Madrid
+
+Autobús Madrid - Pontevedra
+
+Autobús Barcelona - Bilbao
+
+Autobús Barcelona - San Sebastián
+
+Autobús Barcelona - Almería
+
+Autobús Madrid - San Sebastián
+
+Autobús Ronda - Sevilla
+
+Autobús Bilbao - Oviedo
+
+Autobús Santander - Oviedo
+
+Autobús Madrid - Santander
+
+Autobús Bilbao - Santander
+
+Autobús Oviedo - Santander
+
+Autobús Zaragoza - Santander
+
+Autobús San Sebastián - Santander
+
+Autobús Granada - Jaén
+
+Autobús Almería - Jaén
+
+Autobús Córdoba - Jaén
+
+Autobús Málaga - Jaén
+
+Autobús Úbeda - Jaén
+
+Autobús Guadix - Jaén
+
+Autobús Valencia - Jaén
+
+Autobús Murcia - Zaragoza
+
+Autobús Murcia - Barcelona
+
+Autobús Zaragoza - Murcia
+
+Autobús Alicante - Bilbao
+
+Autobús Alicante - Almería
+
+Autobús Alicante - Pamplona
+
+Autobús Alicante - San Sebastián
+
+Autobús Almería - Valencia
+
+Autobús Almería - Alicante
+
+Autobús Almería - Tarragona
+
+Autobús Almería - Castellón de la Plana
+
+Autobús Barcelona - Tarragona
+
+Autobús Valencia - Tarragona
+
+Autobús Alicante - Tarragona
+
+Autobús Zaragoza - Tarragona
+
+Autobús Murcia - Tarragona
+
+Autobús Madrid - Castellón de la Plana
+
+Autobús Barcelona - Castellón de la Plana
+
+Autobús Valencia - Castellón de la Plana
+
+Autobús Murcia - Castellón de la Plana
+
+Autobús Zaragoza - Castellón de la Plana
+
+Autobús Zaragoza - Alicante
+
+Autobús Madrid - Palencia
+
+Autobús Bilbao - Palencia
+
+Autobús Santander - Palencia
+
+Autobús Salamanca - Palencia
+
+Autobús Santander - Madrid
+
+Autobús Madrid - Vitoria
+
+Autobús Bilbao - Vitoria
+
+Autobús San Sebastián - Vitoria
+
+Autobús Zaragoza - Vitoria
+
+Autobús Valencia - Vitoria
+
+Autobús Barcelona - Vitoria
+
+Autobús Benidorm - Vitoria
+
+Autobús Burgos - Vitoria
+
+Autobús Santander - Vitoria
+
+Autobús Valencia - Santander
+
+Autobús Burgos - Santander
+
+Autobús Vitoria - Santander
+
+Autobús Logroño - Santander
+
+Autobús Gijón - Santander
+
+Autobús Gijón - Madrid
+
+Autobús Oviedo - Madrid
+
+Autobús Santiago de Compostela - Oviedo
+
+Autobús Gijón - Oviedo
+
+Autobús Vigo - Oviedo
+
+Autobús San Sebastián - Oviedo
+
+Autobús A Coruña - Oviedo
+
+Autobús Valladolid - Oviedo
+
+Autobús Logroño - Burgos
+
+Autobús Bilbao - Burgos
+
+Autobús Zaragoza - Burgos
+
+Autobús Madrid - Jaén
+
+Autobús Jaén - Madrid
+
+Autobús Madrid - Teruel
+
+Autobús Teruel - Madrid
+
+Autobús Talavera de la Reina - Madrid
+
+Autobús Madrid - Talavera de la Reina
+
+Autobús Zaragoza - Teruel
+
+Autobús Madrid - Aranjuez
+
+Autobús Baeza - Madrid
+
+Autobús Madrid - Baeza
+
+Autobús Aranjuez - Madrid
+
+Autobús Madrid - Valdepeñas
+
+Autobús Valdepeñas - Madrid
+
+Autobús Mérida - Burgos
+
+Autobús San Sebastián - Burgos
+
+Autobús Barcelona - Burgos
+
+Autobús Úbeda - Madrid
+
+Autobús Madrid - Úbeda
+
+Autobús Santander - Burgos
+
+Autobús Vitoria - Burgos
+
+Autobuses Oviedo - Burgos
+
+Autobús Aranda de Duero - Burgos
+
+Autobús Madrid - Aranda de Duero
+
+Autobús Teruel - Valencia
+
+Autobús Valencia - Teruel
+
+Autobús Madrid - Don Benito
+
+Autobús Don Benito - Madrid
+
+Autobús Madrid - Molina de Aragón
+
+Autobús Molina de Aragón - Madrid
+
+Autobús Madrid - Villanueva de la Serena
+
+Autobús Villanueva de la Serena - Madrid
+
+Autobús Madrid - Torrijos
+
+Autobús Torrijos - Madrid
+
+Autobús La Carolina - Madrid
+
+Autobús Madrid - La Carolina
+
+Autobús Madrid - Bailén
+
+Autobús Bailén - Madrid
+
+Autobús Madrid - Mota del Cuervo
+
+Autobús Mota del Cuervo - Madrid
+
+Autobús Salamanca - Burgos
+
+Autobús Madrid - Manzanares
+
+Autobús Manzanares - Madrid
+
+Autobús Madrid - Madridejos
+
+Autobús Madridejos - Madrid
+
+Autobús Granada - Alicante
+
+Autobús Córdoba - Alicante
+
+Autobús Ocaña - Madrid
+
+Autobús Madrid - Ocaña
+
+Autobús Madrid - Arenas de San Pedro
+
+Autobús Arenas de San Pedro - Madrid
+
+Autobús Tarragona - Valencia
+
+Autobús Tarragona - Zaragoza
+
+Autobús Tarragona - Tortosa
+
+Autobús Tarragona - Pamplona
+
+Autobús Tarragona - San Sebastián
+
+Autobús Tarragona - Castellón de la Plana
+
+Autobús Tarragona - Alicante
+
+Autobús Tarragona - Almería
+
+Autobús Murcia - Cartagena
+
+Autobús Toledo - Ciudad Real
+
+Autobús Toledo - Albacete
+
+Autobús Logroño - Zaragoza
+
+Autobús Murcia - La Manga del Mar Menor
+
+Autobús A Coruña - Madrid
+
+Autobús Madrid - Calpe
+
+Autobús Madrid - Altea
+
+Autobús Madrid - Denia
+
+Autobús Madrid - Villajoyosa
+
+Autobús Madrid - Jávea
+
+Autobús Logroño - San Sebastián
+
+Autobús Logroño - Barcelona
+
+Autobús León - Ponferrada
+
+Autobús Murcia - Torrevieja
+
+Autobús León - Astorga
+
+Autobús Ourense - Madrid
+
+Autobús Madrid - Ourense
+
+Autobús León - Burgos
+
+Autobús León - Valladolid
+
+Autobús León - Gijón
+
+Autobús Madrid - Gijón
+
+Autobús Madrid - Toro
+
+Autobús Toro - Madrid
+
+Autobús Lugo - Madrid
+
+Autobús Madrid - Lugo
+
+Autobús Madrid - A Coruña
+
+Autobús Madrid - Arévalo
+
+Autobús Arévalo - Madrid
+
+Autobús Granada - Valencia
+
+Autobús Granada - Almuñécar
+
+Autobús Madrid - Almuñécar
+
+Autobús Málaga - Almuñécar
+
+Autobús Pamplona - Vitoria
+
+Autobús Madrid - Miranda de Ebro
+
+Autobús Miranda de Ebro - Madrid
+
+Autobús Aranda de Duero - Madrid
+
+Autobús Valladolid - Aranda de Duero
+
+Autobús Burgos - Aranda de Duero
+
+Autobús Soria - Aranda de Duero
+
+Autobús Zaragoza - Aranda de Duero
+
+Autobús Sevilla - Aranda de Duero
+
+Autobús Málaga - Aranda de Duero
+
+Autobús San Sebastián - Aranda de Duero
+
+Autobús Córdoba - Aranda de Duero
+
+Autobús Miranda de Ebro - Aranda de Duero
+
+Autobús Barcelona - Aranda de Duero
+
+Autobús Andújar - Aranda de Duero
+
+Autobús Aranda de Duero - Zaragoza
+
+Autobús Aranda de Duero - Valladolid
+
+Autobús Aranda de Duero - Soria
+
+Autobús Aranda de Duero - Barcelona
+
+Autobús Aranda de Duero - Málaga
+
+Autobús Aranda de Duero - San Sebastián
+
+Autobús Aranda de Duero - Córdoba
+
+Autobús Aranda de Duero - Miranda de Ebro
+
+Autobús Astorga - A Coruña
+
+Autobús Astorga - León
+
+Autobús Astorga - Gijón
+
+Autobús Astorga - Vigo
+
+Autobús Astorga - Valladolid
+
+Autobús Astorga - Santiago de Compostela
+
+Autobús Astorga - Oviedo
+
+Autobús A Coruña - Astorga
+
+Autobús Ponferrada - Astorga
+
+Autobús Valladolid - Astorga
+
+Autobús Santiago de Compostela - Astorga
+
+Autobús Oviedo - Astorga
+
+Autobús Vigo - Astorga
+
+Autobús Gijón - Astorga
+
+Autobús Ávila - Salamanca
+
+Autobús Segovia - Ávila
+
+Autobús Jaén - Baeza
+
+Autobús Baeza - Jaén
+
+Autobús Baeza - Granada
+
+Autobús Granada - Baeza
+
+Autobús Córdoba - Baeza
+
+Autobús Baeza - Córdoba
+
+Autobús Málaga - Baeza
+
+Autobús Baeza - Málaga
+
+Autobús Úbeda - Baeza
+
+Autobús Baeza - Úbeda
+
+Autobús Aeropuerto de Málaga - Baeza
+
+Autobús Baeza - Aeropuerto de Málaga
+
+Autobús Sevilla - Bailén
+
+Autobús Bailén - Sevilla
+
+Autobús Córdoba - Bailén
+
+Autobús Bailén - Córdoba
+
+Autobús Madrid - Benavente
+
+Autobús Benavente - Madrid
+
+Autobús Valladolid - Benavente
+
+Autobús Benavente - Valladolid
+
+Autobús Oviedo - Benavente
+
+Autobús Benavente - Oviedo
+
+Autobús Barcelona - Benicarló
+
+Autobús Benicarló - Barcelona
+
+Autobús Zaragoza - Benicarló
+
+Autobús Benicarló - Zaragoza
+
+Autobús Valencia - Benicarló
+
+Autobús Benicarló - Valencia
+
+Autobús Tarragona - Benicarló
+
+Autobús Benicarló - Tarragona
+
+Autobús Benidorm - Pamplona
+
+Autobús Madrid - Benicarló
+
+Autobús Benicarló - Madrid
+
+Autobús Benidorm - Zaragoza
+
+Autobús Benidorm - Bilbao
+
+Autobús Benidorm - San Sebastián
+
+Autobús Benidorm - Logroño
+
+Autobús Benidorm - Tudela
+
+Autobús Benidorm - Albacete
+
+Autobús Benidorm - Tolosa
+
+Autobús Benidorm - Barcelona
+
+Autobús Benidorm - Irún
+
+Autobús Benidorm - Calpe
+
+Autobús Benidorm - Algeciras
+
+Autobús Benidorm - Gandía
+
+Autobús Benidorm - Alicante
+
+Autobús Madrid - Betanzos
+
+Autobús Betanzos - Madrid
+
+Autobús Burgos - Bilbao
+
+Autobús Burgos - Zaragoza
+
+Autobús Burgos - León
+
+Autobús Burgos - Barcelona
+
+Autobús Burgos - San Sebastián
+
+Autobús Burgos - Zamora
+
+Autobús Burgos - Oviedo
+
+Autobús Burgos - Salamanca
+
+Autobús Burgos - Málaga
+
+Autobús Burgos - Valladolid
+
+Autobús Burgos - Gijón
+
+Autobús Burgos - Irún
+
+Autobús Burgos - Córdoba
+
+Autobús Burgos - Saldaña
+
+Autobús Burgos - Sevilla
+
+Autobús Burgos - Mérida
+
+Autobús Burgos - A Coruña
+
+Autobús Burgos - Granada
+
+Autobús Cáceres - Sevilla
+
+Autobús Cáceres - Mérida
+
+Autobús Cáceres - Plasencia
+
+Autobús Cáceres - Salamanca
+
+Autobús Cáceres - Burgos
+
+Autobús Cáceres - Almendralejo
+
+Autobús Cáceres - León
+
+Autobús Cáceres - Badajoz
+
+Autobús Cáceres - Algeciras
+
+Autobús Cáceres - Cádiz
+
+Autobús Cáceres - Málaga
+
+Autobús Cáceres - Trujillo
+
+Autobús Cáceres - Zamora
+
+Autobús Cáceres - Irún
+
+Autobús Cáceres - Zafra
+
+Autobús Cáceres - Béjar
+
+Autobús Cáceres - Valladolid
+
+Autobús Cáceres - Jerez de la Frontera
+
+Autobús Cáceres - Bilbao
+
+Autobús Cáceres - Oviedo
+
+Autobús Cáceres - Ourense
+
+Autobús Cáceres - Vigo
+
+Autobús Cáceres - Barcelona
+
+Autobús Sevilla - Cáceres
+
+Autobús Mérida - Cáceres
+
+Autobús Badajoz - Cáceres
+
+Autobús Zamora - Cáceres
+
+Autobús Zafra - Cáceres
+
+Autobús Cáceres - Aeropuerto de Madrid
+
+Autobús Bilbao - Cáceres
+
+Autobús Cáceres - A Coruña
+
+Autobús Oviedo - Cáceres
+
+Autobús Aeropuerto de Madrid - Cáceres
+
+Autobús Cáceres - Pontevedra
+
+Autobús A Coruña - Cáceres
+
+Autobús Plasencia - Cáceres
+
+Autobús Cáceres - Gijón
+
+Autobús Cáceres - Vitoria
+
+Autobús Trujillo - Cáceres
+
+Autobús Jerez de la Frontera - Cáceres
+
+Autobús Cáceres - Palencia
+
+Autobús Vigo - Cáceres
+
+Autobús Pontevedra - Cáceres
+
+Autobús Salamanca - Cáceres
+
+Autobús Burgos - Cáceres
+
+Autobús Almendralejo - Cáceres
+
+Autobús Málaga - Cáceres
+
+Autobús Algeciras - Cáceres
+
+Autobús León - Cáceres
+
+Autobús Valladolid - Cáceres
+
+Autobús Madrid - Lisboa
+
+Autobús Lisboa - Madrid
+
+Autobús Badajoz - Lisboa
+
+Autobús Oporto - Lisboa
+
+Autobús Madrid - París
+
+Autobús Oporto - París
+
+Autobús Lisboa - París
+
+Autobús Barcelona - París
+
+Autobús París - Barcelona
+
+Autobús Bilbao - París
+
+Autobús San Sebastián - París
+
+Autobús Burdeos - París
+
+Autobús Cáceres - Lisboa
+
+Autobús Andorra - Barcelona
+
+Autobús Barcelona - Andorra
+
+Autobús Lleida - Andorra
+
+Autobús Lisboa - Sevilla
+
+Autobús Lisboa - Barcelona
+
+Autobús Sevilla - Lisboa
+
+Autobús Barcelona - Lisboa
+
+Autobús Valencia - Andorra
+
+Autobús Andorra - Valencia
+
+Autobús Zaragoza - Andorra
+
+Autobús Madrid - Aveiro
+
+Autobús Aveiro - Lisboa
+
+Autobús Aveiro - Madrid
+
+Autobús Lisboa - Aveiro
+
+Autobús Salamanca - Aveiro
+
+Autobús Aveiro - Salamanca
+
+Autobús Oporto - Aveiro
+
+Autobús Aveiro - Oporto
+
+Autobús Aveiro - Ávila
+
+Autobús Aveiro - Santiago de Compostela
+
+Autobús Ávila - Aveiro
+
+Autobús Santiago de Compostela - Aveiro
+
+Autobús Oporto - Ávila
+
+Autobús Ávila - Oporto
+
+Autobús Lisboa - Oporto
+
+Autobús San Sebastián - Bayona
+
+Autobús Bayona - Madrid
+
+Autobús Madrid - Bayona
+
+Autobús Bayona - San Sebastián
+
+Autobús París - Bayona
+
+Autobús Bayona - París
+
+Autobús Bilbao - Bayona
+
+Autobús Bayona - Bilbao
+
+Autobús San Sebastián - Biarritz
+
+Autobús Biarritz - San Sebastián
+
+Autobús Burgos - Oporto
+
+Autobús Burgos - París
+
+Autobús Madrid - Aeropuerto de Madrid
+
+Autobús Barcelona - Aeropuerto de Barcelona
+
+Autobús Sevilla - Aeropuerto de Sevilla
+
+Tren Madrid - Valencia
+
+Tren Valencia - Madrid
+
+Tren Madrid - Huesca
+
+Tren Madrid - Ronda
+
+Tren Madrid - Jaén
+
+Tren Barcelona - Cádiz
+
+Tren Madrid - Valdepeñas
+
+Tren Ciudad Real - Barcelona
+
+Tren Cartagena - Barcelona
+
+Tren Albacete - Zamora
+
+Tren Zamora - Albacete
+
+Tren Valencia - Burgos
+
+Tren Burgos - Valencia
+
+Tren Sevilla - Cuenca
+
+Tren Zaragoza - Sevilla
+
+Tren Tarragona - Sevilla
+
+Tren Jaén - Madrid
+
+Tren Huesca - Madrid
+
+Tren Ronda - Madrid
+
+Tren Talavera de la Reina - Madrid
+
+Tren Úbeda - Madrid
+
+Tren Valdepeñas - Madrid
+
+Tren Elda - Barcelona
+
+Tren Jerez de la Frontera - Barcelona
+
+Tren Salamanca - Barcelona
+
+Tren Barcelona - Salamanca
+
+Tren Zaragoza - Málaga
+
+Tren Ciudad Real - Málaga
+
+Tren Castellón de la Plana - Córdoba
+
+Tren Ciudad Real - Córdoba
+
+Tren Cuenca - Córdoba
+
+Tren Lleida - Córdoba
+
+Tren Ronda - Córdoba
+
+Tren Zaragoza - Córdoba
+
+Tren Córdoba - Zaragoza
+
+Tren Ciudad Real - Zaragoza
+
+Tren Sevilla - Zaragoza
+
+Tren Tarragona - Burgos
+
+Tren Palencia - Burgos
+
+Tren Ávila - Burgos
+
+Tren Tafalla - Burgos
+
+Tren Zafra - Sevilla
+
+Tren Ciudad Real - Algeciras
+
+Tren Pontevedra - Vigo
+
+Tren Oviedo - Cuenca
+
+Tren Oviedo - Valencia
+
+Tren Oviedo - Castellón de la Plana
+
+Tren Oviedo - Palencia
+
+Tren A Coruña - Ferrol
+
+Tren A Coruña - Lleida
+
+Tren A Coruña - Lugo
+
+Tren A Coruña - Miranda de Ebro
+
+Tren A Coruña - Palencia
+
+Tren A Coruña - Pontevedra
+
+Tren A Coruña - Ourense
+
+Tren A Coruña - Segovia
+
+Tren A Coruña - Santiago de Compostela
+
+Tren A Coruña - Tarragona
+
+Tren A Coruña - Tafalla
+
+Tren A Coruña - Vigo
+
+Tren A Coruña - Tudela
+
+Tren A Coruña - Vitoria
+
+Tren Albacete - Benicarló
+
+Tren Albacete - Cádiz
+
+Tren Albacete - Ciudad Real
+
+Tren Albacete - Palencia
+
+Tren Albacete - Jerez de la Frontera
+
+Tren Albacete - Puerto de Santa María
+
+Tren Albacete - Daimiel
+
+Tren Albacete - Santander
+
+Tren Albacete - Segovia
+
+Tren Alicante - Ciudad Real
+
+Tren Alicante - Benicarló
+
+Tren Alicante - Benicassim
+
+Tren Albacete - Valdepeñas
+
+Tren Algeciras - Ciudad Real
+
+Tren Alicante - Ourense
+
+Tren Alicante - Palencia
+
+Tren Alicante - Vinaros
+
+Tren Alicante - Zamora
+
+Tren Almuradiel - Madrid
+
+Tren Almuradiel - Valdepeñas
+
+Tren Andújar - Córdoba
+
+Tren Andújar - Benicarló
+
+Tren Andújar - Castellón de la Plana
+
+Tren Andújar - Jaén
+
+Tren Astorga - Vitoria
+
+Tren Andújar - Valdepeñas
+
+Tren Andújar - Valencia
+
+Tren Andújar - Tarragona
+
+Tren Astorga - Lleida
+
+Tren Astorga - Miranda de Ebro
+
+Tren Astorga - Pamplona
+
+Tren Astorga - Tafalla
+
+Tren Astorga - Tudela
+
+Tren Astorga - Segovia
+
+Tren Astorga - Tarragona
+
+Tren Ávila - León
+
+Tren Ávila - Palencia
+
+Tren Ávila - Valladolid
+
+Tren Ávila - Vitoria
+
+Tren Ávila - San Sebastián
+
+Tren Ávila - Miranda de Ebro
+
+Tren Badajoz - Ciudad Real
+
+Tren Badajoz - Daimiel
+
+Tren Badalona - Gerona/Girona
+
+Tren Badalona - Figueres
+
+Tren Barcelona - Ciudad Real
+
+Tren Barcelona - Cartagena
+
+Tren Barcelona - Haro
+
+Tren Barcelona - Jerez de la Frontera
+
+Tren Barcelona - Tafalla
+
+Tren Barcelona - Villena
+
+Tren Benicarló - Andújar
+
+Tren Benicarló - Benicassim
+
+Tren Benicarló - Cádiz
+
+Tren Benicarló - Cartagena
+
+Tren Benicarló - Córdoba
+
+Tren Benicarló - Elche
+
+Tren Benicarló - Murcia
+
+Tren Benicarló - Sevilla
+
+Tren Benicarló - Valdepeñas
+
+Tren Benicassim - Alicante
+
+Tren Benicassim - Benicarló
+
+Tren Benicassim - Castellón de la Plana
+
+Tren Benicassim - Elche
+
+Tren Benicassim - Murcia
+
+Tren Benicassim - Valencia
+
+Tren Benicassim - Vinaros
+
+Tren Bilbao - Logroño
+
+Tren Bilbao - Segovia
+
+Tren Bilbao - Tudela
+
+Tren Burgos - Ávila
+
+Tren Burgos - Palencia
+
+Tren Burgos - Pamplona
+
+Tren Burgos - Segovia
+
+Tren Burgos - Tafalla
+
+Tren Burgos - Tarragona
+
+Tren Cádiz - Albacete
+
+Tren Cádiz - Benicarló
+
+Tren Cádiz - Castellón de la Plana
+
+Tren Cádiz - Ciudad Real
+
+Tren Cádiz - Jaén
+
+Tren Cádiz - Jerez de la Frontera
+
+Tren Cádiz - Valdepeñas
+
+Tren Cádiz - Tarragona
+
+Tren Cambrils - Cádiz
+
+Tren Cambrils - Albacete
+
+Tren Cambrils - Andújar
+
+Tren Cambrils - Córdoba
+
+Tren Cambrils - Tarragona
+
+Tren Cambrils - Valdepeñas
+
+Tren Castellón de la Plana - Albacete
+
+Tren Castellón de la Plana - Andújar
